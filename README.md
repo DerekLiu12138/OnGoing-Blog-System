@@ -32,7 +32,11 @@ Here's how you can run the application:
 
 Please ensure that both the server and the Java application are running simultaneously for the application to function correctly.
 
+
+
 # Personal Blog System
+
+We created a thorough mechanism for individual blogging. This project has been carefully planned and created to offer blogging enthusiasts a reliable and approachable platform. Numerous features are available, such as user account administration, blog creation and management, comment capabilities, notifications, and an analytics dashboard.
 
 ## Functionality User Accounts
 
